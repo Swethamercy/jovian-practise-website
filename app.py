@@ -21,7 +21,7 @@ JOBS = [{
     'id': 2,
     'title': 'NLP Engineer',
     'location': 'New York, USA',
-    'salary': '$140,000'
+    'salary': '$150,000'
 }, {
     'id': 3,
     'title': 'UI/UX Designer',
